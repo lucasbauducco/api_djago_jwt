@@ -13,6 +13,7 @@ Este proyecto es una API RESTful construida con Django y Django REST Framework, 
 - Documentación pública
 
 ---
+![image](https://github.com/user-attachments/assets/c13ab419-26cd-48b5-8aa4-b8ef196632fd)
 
 ## 🚀 Instalación
 
